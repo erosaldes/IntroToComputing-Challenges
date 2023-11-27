@@ -1,0 +1,62 @@
+by: Rosaldes, Eliza Maurice S.        1BSInfoSys-B
+
+Introduction to Minecraft
+Minecraft is a sandbox game developed by Mojang Studios, offering players a vast open-world environment where they can gather resources, craft items, build structures, and explore diverse landscapes.
+
+Gameplay Mechanics
+
+Game Modes:
+
+Survival Mode: Players must gather resources, manage health, hunger, and fend off enemies.
+
+Creative Mode: Unlimited resources, ability to fly, and focus on building without limitations.
+
+Adventure Mode: Custom gameplay designed by map creators, limiting certain actions for players.
+
+Blocks and Resources:
+Breakable blocks: Dirt, stone, wood, etc.
+Ores: Coal, iron, gold, diamonds, etc.
+Crafting materials: Wood, iron ingots, gold ingots, etc.
+
+Crafting:
+Crafting Table: Fundamental for creating items, tools, and weapons.
+Recipes: Combination of resources to create tools, armor, blocks, and more.
+
+Exploring the World
+Biomes:
+Various terrains and environments such as forests, deserts, oceans, mountains, and more.
+Unique resources and wildlife in each biome.
+
+Structures:
+Villages: Inhabited by NPCs (Non-Player Characters) offering trading opportunities.
+Strongholds, temples, mineshafts: Hidden structures containing valuable loot.
+
+Building and Construction
+Building Blocks:
+Different types of blocks: Wood, stone, glass, etc.
+Redstone: Allows for creating complex mechanisms and circuits.
+
+Building Techniques:
+Foundations, walls, roofs, and landscaping.
+Advanced structures: Automated farms, traps, roller coasters, etc.
+
+Survival Aspects
+Enemies and Mobs:
+Zombies, skeletons, spiders, creepers, etc.
+Passive mobs: Cows, pigs, chickens, etc.
+
+Health and Hunger:
+Managing health with food and avoiding starvation.
+Healing: Eating food, potions, and natural regeneration.
+
+Multiplayer and Community
+Multiplayer Servers:
+Different types of servers: Survival, creative, minigames, etc.
+Interacting and playing with other players.
+
+Mods and Customization:
+Modding community: Custom modifications adding new elements, mechanics, and content.
+Texture packs, skins, and shaders for visual enhancements.
+
+Conclusion
+Minecraft provides endless possibilities for creativity, exploration, and adventure, catering to various playstyles and preferences.
